@@ -55,4 +55,4 @@
 
 ## 四、项目截图
 
-- 前端界面模板与CakeShop的模板相同，项目链接：https://dev.tencent.com/u/vi-li/p/CakesShop
+- 前端界面模板与CakeShop的模板相同，项目链接：https://github.com/vi-li/CakesShop
