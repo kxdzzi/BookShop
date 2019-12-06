@@ -1,8 +1,6 @@
 # 网上书城项目
 
-**作者：vili &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联系方式1976763043@qq.com**
-
-[TOC]
+**作者：积极向上的木木 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联系方式：PositiveMumu@126.com**
 
 ## 一、项目功能
 
